@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/analytics-header.gif" width="100%" alt="Ramkumar Kannan — Analytics Engineering. Python, SQL, data pipelines, and business intelligence." />
+<img src="analytics-header.gif" width="100%" alt="Ramkumar Kannan — Analytics Engineering. Python, SQL, data pipelines, and business intelligence." />
 
 **Turning operational data into useful models, clear metrics, and better decisions.**
 
@@ -15,7 +15,7 @@ MSc Data Engineering for AI @ DSTI · Sophia Antipolis, France
 <table>
 <tr>
 <td width="38%" valign="top">
-<img src="assets/nyxora-portrait.png" width="100%" alt="Nyxora illustration: a thoughtful portrait at a desk in a moonlit room, in charcoal and amber tones." />
+<img src="nyxora-portrait.png" width="100%" alt="Nyxora illustration: a thoughtful portrait at a desk in a moonlit room, in charcoal and amber tones." />
 </td>
 <td width="62%" valign="top">
 <h2>Hi, I'm Ramkumar.</h2>
