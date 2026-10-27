@@ -12,12 +12,7 @@ MSc Data Engineering for AI @ DSTI · Sophia Antipolis, France
 
 ---
 
-<table>
-<tr>
-<td width="38%" valign="top">
-<img src="nyxora-portrait.png" width="100%" alt="Nyxora illustration: a thoughtful portrait at a desk in a moonlit room, in charcoal and amber tones." />
-</td>
-<td width="62%" valign="top">
+
 <h2>Hi, I'm Ramkumar.</h2>
 <p>I'm building my career in <b>analytics engineering</b>, combining Python and SQL with a background in business analytics and industrial operations.</p>
 <p>I enjoy connecting raw data to the questions people need answered: what is changing, why it matters, and where to act.</p>
@@ -25,9 +20,7 @@ MSc Data Engineering for AI @ DSTI · Sophia Antipolis, France
 <p><b>Studying:</b> MSc Data Engineering for AI, DSTI.<br />
 <b>Previously:</b> MSc Business Analytics &amp; Consultancy, Heriot-Watt University; B.E. Chemical Engineering.<br />
 <b>Looking for:</b> Analytics engineering and data engineering internships.</p>
-</td>
-</tr>
-</table>
+
 
 <div align="center">
 
