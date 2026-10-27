@@ -8,7 +8,7 @@
 
 MSc Data Engineering for AI @ DSTI · Sophia Antipolis, France
 
-[Tech Stack](#tech-stack) · [Experience](#experience) · [Projects](#featured-projects) · [Education](#education)
+[Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Education](#education)
 
 </div>
 
@@ -34,17 +34,6 @@ I work with **Python, SQL, and business intelligence tools** to collect, prepare
 
 **SQL focus:** joins, CTEs, window functions, and business metrics.  
 **Data-quality focus:** missing values, duplicate records, inconsistent timestamps, and field normalization.
-
-## Experience
-
-### Solution Delivery Engineer · Jaaji Technologies
-*Industry 4.0 / JSW Steel blast-furnace operations*
-
-- Worked with Python IoT pipelines and a unified SQL database for operational data.
-- Built KPI dashboards and Power BI reports covering energy, temperature, raw materials, and throughput.
-- Supported predictive-maintenance analysis to help teams identify operational issues.
-
-**Python · SQL · IoT Data · Power BI · Operational Analytics**
 
 ## Featured Projects
 
