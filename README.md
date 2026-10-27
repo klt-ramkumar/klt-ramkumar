@@ -1,35 +1,44 @@
 <div align="center">
 
-# Ramkumar Kannan
-
-### Analytics Engineering · Data Pipelines · Business Intelligence
+<img src="assets/analytics-header.gif" width="100%" alt="Ramkumar Kannan — Analytics Engineering. Python, SQL, data pipelines, and business intelligence." />
 
 **Turning operational data into useful models, clear metrics, and better decisions.**
 
-Sophia Antipolis, France · MSc Data Engineering for AI at DSTI
+MSc Data Engineering for AI @ DSTI · Sophia Antipolis, France
 
-![Python](https://img.shields.io/badge/Python-17324D?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-17324D?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17324D?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-17324D?style=flat-square&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-17324D?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-17324D?style=flat-square&logo=pandas&logoColor=white)
-
-[Explore my projects](https://github.com/klt-ramkumar?tab=repositories)
+[Projects](#selected-projects) · [Skills](#what-i-work-with) · [Currently building](#currently-building--flight-analytics)
 
 </div>
 
 ---
 
-## About me
+<table>
+<tr>
+<td width="38%" valign="top">
+<img src="assets/nyxora-portrait.png" width="100%" alt="Nyxora illustration: a thoughtful portrait at a desk in a moonlit room, in charcoal and amber tones." />
+</td>
+<td width="62%" valign="top">
+<h2>Hi, I'm Ramkumar.</h2>
+<p>I'm building my career in <b>analytics engineering</b>, combining Python and SQL with a background in business analytics and industrial operations.</p>
+<p>I enjoy connecting raw data to the questions people need answered: what is changing, why it matters, and where to act.</p>
+<p>My work spans API ingestion, data preparation, relational databases, time-series analysis, and dashboards.</p>
+<p><b>Studying:</b> MSc Data Engineering for AI, DSTI.<br />
+<b>Previously:</b> MSc Business Analytics &amp; Consultancy, Heriot-Watt University; B.E. Chemical Engineering.<br />
+<b>Looking for:</b> Analytics engineering and data engineering internships.</p>
+</td>
+</tr>
+</table>
 
-I'm building my career in **analytics engineering**, combining Python and SQL with a background in business analytics and industrial operations. I enjoy connecting raw data to the questions people actually need answered: what is changing, why it matters, and where to act.
+<div align="center">
 
-My work spans API ingestion, data cleaning, relational databases, time-series analysis, and dashboards. I bring experience with industrial IoT data and operational KPI reporting, alongside projects in energy, aviation, and customer analytics.
+![Python](https://img.shields.io/badge/Python-202126?style=flat-square&logo=python&logoColor=D99B52)
+![SQL](https://img.shields.io/badge/SQL-202126?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202126?style=flat-square&logo=postgresql&logoColor=D99B52)
+![MongoDB](https://img.shields.io/badge/MongoDB-202126?style=flat-square&logo=mongodb&logoColor=D99B52)
+![Power BI](https://img.shields.io/badge/Power_BI-202126?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-202126?style=flat-square&logo=pandas&logoColor=D99B52)
 
-- **Now:** MSc Data Engineering for AI at DSTI, Sophia Antipolis.
-- **Background:** MSc Business Analytics & Consultancy at Heriot-Watt University; B.E. Chemical Engineering.
-- **Career focus:** Analytics engineering and data engineering internships, with a particular interest in energy and operational analytics.
+</div>
 
 ## What I work with
 
@@ -102,7 +111,7 @@ I'm developing a flight-data pipeline around Nice Côte d'Azur Airport departure
 | Stage | Progress |
 | :--- | :--- |
 | **Collect & store** | Python collector using AirLabs data, PostgreSQL raw storage, and CSV exports |
-| **Schedule & display** | Local Windows Task Scheduler setup and a departure-board dashboard; improving collection reliability when the laptop sleeps |
+| **Schedule & display** | Scheduled local collection and a departure-board dashboard; collection reliability improvements in progress |
 | **Transform — next** | dbt models for deduplication, code-share handling, and flight-status updates |
 | **Measure — planned** | Departure volumes, average delay, and cancellation metrics |
 
