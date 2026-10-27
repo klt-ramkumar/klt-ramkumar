@@ -2,126 +2,93 @@
 
 <img src="analytics-header.gif" width="100%" alt="Ramkumar Kannan — Analytics Engineering. Python, SQL, data pipelines, and business intelligence." />
 
-**Turning operational data into useful models, clear metrics, and better decisions.**
+### Analytics Engineering · Data Engineering · Business Intelligence
+
+**Turning raw data into clear metrics and practical decisions.**
 
 MSc Data Engineering for AI @ DSTI · Sophia Antipolis, France
 
-[Projects](#selected-projects) · [Skills](#what-i-work-with) · [Currently building](#currently-building--flight-analytics)
+[Tech Stack](#tech-stack) · [Experience](#experience) · [Projects](#featured-projects) · [Education](#education)
 
 </div>
 
 ---
 
+## Hi, I'm Ramkumar
 
-<h2>Hi, I'm Ramkumar.</h2>
-<p>I'm building my career in <b>analytics engineering</b>, combining Python and SQL with a background in business analytics and industrial operations.</p>
-<p>I enjoy connecting raw data to the questions people need answered: what is changing, why it matters, and where to act.</p>
-<p>My work spans API ingestion, data preparation, relational databases, time-series analysis, and dashboards.</p>
-<p><b>Studying:</b> MSc Data Engineering for AI, DSTI.<br />
-<b>Previously:</b> MSc Business Analytics &amp; Consultancy, Heriot-Watt University; B.E. Chemical Engineering.<br />
-<b>Looking for:</b> Analytics engineering and data engineering internships.</p>
+I work with **Python, SQL, and business intelligence tools** to collect, prepare, and analyze data. With a background in industrial operations and business analytics, I'm building my career in **analytics engineering**—connecting reliable data pipelines to the questions that matter to a business.
 
+**Seeking analytics engineering and data engineering internships.**
 
-<div align="center">
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-202126?style=flat-square&logo=python&logoColor=D99B52)
-![SQL](https://img.shields.io/badge/SQL-202126?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202126?style=flat-square&logo=postgresql&logoColor=D99B52)
-![MongoDB](https://img.shields.io/badge/MongoDB-202126?style=flat-square&logo=mongodb&logoColor=D99B52)
-![Power BI](https://img.shields.io/badge/Power_BI-202126?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-202126?style=flat-square&logo=pandas&logoColor=D99B52)
+<table>
+<tr><td width="25%"><b>Data &amp; Analytics</b></td><td><code>Python</code> · <code>SQL</code> · <code>pandas</code> · <code>NumPy</code> · <code>EDA</code> · <code>Feature Engineering</code></td></tr>
+<tr><td><b>Data Engineering</b></td><td><code>API Integration</code> · <code>Data Ingestion</code> · <code>ETL Pipelines</code> · <code>JSON / CSV</code> · <code>Data Cleaning</code></td></tr>
+<tr><td><b>Databases</b></td><td><code>PostgreSQL</code> · <code>MySQL</code> · <code>SQL Server</code> · <code>MongoDB</code> · <code>SQLite</code></td></tr>
+<tr><td><b>BI &amp; Visualization</b></td><td><code>Power BI</code> · <code>DAX</code> · <code>Excel</code> · <code>Streamlit</code> · <code>Plotly</code> · <code>Matplotlib</code></td></tr>
+<tr><td><b>Machine Learning</b></td><td><code>scikit-learn</code> · <code>XGBoost</code> · <code>Time-Series Forecasting</code> · <code>Model Evaluation</code></td></tr>
+<tr><td><b>Development Tools</b></td><td><code>Git</code> · <code>GitHub</code> · <code>Jupyter</code> · <code>VS Code</code> · <code>FastAPI</code> · <code>Flask</code></td></tr>
+<tr><td><b>Currently Learning</b></td><td><code>dbt</code> · <code>Dimensional Modeling</code> · <code>Automated Data Testing</code></td></tr>
+</table>
 
-</div>
+**SQL focus:** joins, CTEs, window functions, and business metrics.  
+**Data-quality focus:** missing values, duplicate records, inconsistent timestamps, and field normalization.
 
-## What I work with
+## Experience
 
-| Area | Skills and tools |
-| :--- | :--- |
-| **SQL & databases** | PostgreSQL, MySQL, SQL Server, SQLite; joins, CTEs, window functions; MongoDB aggregation pipelines |
-| **Data preparation** | Python, pandas, NumPy; API ingestion, JSON/CSV processing, missing values, duplicates, timestamp normalization |
-| **Analytics & reporting** | Power BI, DAX, Excel, Streamlit, Plotly; KPI reporting, churn analysis, customer segmentation |
-| **Statistical & predictive analysis** | scikit-learn, XGBoost, time-series features, statistical anomaly detection, model evaluation |
-| **Development** | Git, GitHub, Jupyter, VS Code; FastAPI and Flask |
+### Solution Delivery Engineer · Jaaji Technologies
+*Industry 4.0 / JSW Steel blast-furnace operations*
 
-**Developing next:** dbt transformations, dimensional modeling, automated data-quality tests, and documented analytics models.
+- Worked with Python IoT pipelines and a unified SQL database for operational data.
+- Built KPI dashboards and Power BI reports covering energy, temperature, raw materials, and throughput.
+- Supported predictive-maintenance analysis to help teams identify operational issues.
 
-## Selected projects
+**Python · SQL · IoT Data · Power BI · Operational Analytics**
 
-### 01 / Customer Churn & Retention Analytics
+## Featured Projects
 
-**Business questions → combined data → actionable reporting**
+### 01 / [Customer Churn & Retention Analytics](https://github.com/klt-ramkumar/nimbus-churn-analysis)
+Combined PostgreSQL customer data with MongoDB product events in an analytics challenge. Cleaned inconsistent data, investigated onboarding and churn, and built customer risk segments with an interactive dashboard.
 
-An analytics challenge combining structured customer and billing data with product-event data to investigate churn, onboarding friction, and retention opportunities.
+**PostgreSQL · MongoDB · Python · Statistical Analysis · Chart.js**
 
-- Queried PostgreSQL and MongoDB sources using SQL and aggregation pipelines.
-- Addressed inconsistent field names, timestamps, currencies, and duplicate accounts.
-- Built customer risk segments, statistical analysis, and an interactive dashboard.
+### 02 / [Smart EV Charging Scheduler](https://github.com/klt-ramkumar/Smart-EV-Charging)
+Built a Streamlit prototype using Octopus Agile tariffs and UK Carbon Intensity data to compare charging costs, identify lower-cost windows, and visualize energy information.
 
-`PostgreSQL` `MongoDB` `Python` `pandas` `Chart.js`
+**Python · REST APIs · Streamlit · Plotly · XGBoost**
 
-[View project →](https://github.com/klt-ramkumar/nimbus-churn-analysis)
+### 03 / Flight Analytics Pipeline · In Progress
+Developing a departure-data pipeline for Nice Côte d'Azur Airport, from AirLabs API ingestion to PostgreSQL storage and an airport-style dashboard.
 
-### 02 / Smart EV Charging Scheduler
+- **Built:** Python collector, raw data storage, CSV exports, scheduled local collection, and departure-board display.
+- **Improving:** collection reliability.
+- **Next:** dbt transformations for deduplication, code-share handling, and updated flight statuses; departure and delay metrics.
 
-**Energy APIs → charging comparisons → practical recommendations**
+**Python · AirLabs API · PostgreSQL · Windows Task Scheduler**
 
-A Streamlit prototype that uses electricity tariff and carbon-intensity data to help users compare charging windows.
+<details>
+<summary><b>More energy analytics projects</b></summary>
 
-- Integrated Octopus Agile and UK Carbon Intensity API data.
-- Compared charging costs and identified lower-cost time slots.
-- Presented regional energy information and price forecasts through interactive visualizations.
+- **[Electricity Market Anomaly Detection](https://github.com/klt-ramkumar/anomaly-detection-electricity-dk)** — Prepared Danish DK1 price data and applied rolling statistics and z-score rules to flag unusual movements.
+- **[Energy Consumption Forecasting](https://github.com/klt-ramkumar/ML-ON-ENERGY-DATASET)** — AEP hourly demand forecasting with temporal features and XGBoost. Learning project developed with guidance from Rob Mulla's tutorials.
 
-`Python` `APIs` `Streamlit` `Plotly` `XGBoost`
+</details>
 
-[View project →](https://github.com/klt-ramkumar/Smart-EV-Charging)
+## Education
 
-### 03 / Electricity Market Anomaly Detection
-
-**Time-series preparation → rolling statistics → interpretable signals**
-
-A statistical analysis of Danish DK1 electricity prices to flag unusual price movements.
-
-- Prepared historical market data and standardized timestamps.
-- Engineered rolling statistics and time-based features.
-- Applied z-score rules and visualized flagged events for inspection.
-
-`Python` `pandas` `NumPy` `Matplotlib` `Time series`
-
-[View project →](https://github.com/klt-ramkumar/anomaly-detection-electricity-dk)
-
-### 04 / Energy Consumption Forecasting
-
-A learning project using the AEP hourly electricity-consumption dataset to explore seasonality, engineer temporal features, and evaluate XGBoost forecasts. Developed with guidance from Rob Mulla's tutorials.
-
-`Python` `XGBoost` `scikit-learn` `Feature engineering`
-
-[View project →](https://github.com/klt-ramkumar/ML-ON-ENERGY-DATASET)
-
-## Currently building / Flight Analytics
-
-I'm developing a flight-data pipeline around Nice Côte d'Azur Airport departures, extending my work from analysis into repeatable data collection and transformation.
-
-| Stage | Progress |
-| :--- | :--- |
-| **Collect & store** | Python collector using AirLabs data, PostgreSQL raw storage, and CSV exports |
-| **Schedule & display** | Scheduled local collection and a departure-board dashboard; collection reliability improvements in progress |
-| **Transform — next** | dbt models for deduplication, code-share handling, and flight-status updates |
-| **Measure — planned** | Departure volumes, average delay, and cancellation metrics |
-
-## What I bring
-
-**An operational perspective.** Experience with industrial IoT pipelines and KPI dashboards helps me connect technical work to the people using the results.
-
-**Attention to data quality.** I like working through the details—missing values, inconsistent formats, duplicates, and metric definitions—that determine whether analysis can be trusted.
-
-**Clear communication.** My business analytics background helps me explain findings and build reporting around practical decisions.
+**MSc Data Engineering for AI** · DSTI, Sophia Antipolis · In progress  
+**MSc Business Analytics & Consultancy** · Heriot-Watt University, Edinburgh  
+**B.E. Chemical Engineering**
 
 ---
 
 <div align="center">
 
-**Interested in analytics engineering, data engineering, and business intelligence opportunities.**
+**Energy · Aviation · Customer Analytics**
 
-Energy · Aviation · Operational Analytics
+Curious about the data. Focused on the decision.
+
+[Explore my repositories →](https://github.com/klt-ramkumar?tab=repositories)
 
 </div>
